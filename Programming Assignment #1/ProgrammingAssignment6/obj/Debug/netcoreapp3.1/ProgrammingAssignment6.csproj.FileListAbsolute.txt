@@ -1,0 +1,26 @@
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.exe
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.deps.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.runtimeconfig.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.runtimeconfig.dev.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.AssemblyInfoInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.AssemblyInfo.cs
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.genruntimeconfig.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.exe
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.deps.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.runtimeconfig.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.runtimeconfig.dev.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\bin\Debug\netcoreapp3.1\ProgrammingAssignment6.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.AssemblyInfoInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.AssemblyInfo.cs
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #1\ProgrammingAssignment6\obj\Debug\netcoreapp3.1\ProgrammingAssignment6.genruntimeconfig.cache
