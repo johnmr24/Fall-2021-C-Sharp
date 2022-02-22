@@ -1,0 +1,14 @@
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\bin\Debug\netcoreapp3.1\Receipt.exe
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\bin\Debug\netcoreapp3.1\Receipt.deps.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\bin\Debug\netcoreapp3.1\Receipt.runtimeconfig.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\bin\Debug\netcoreapp3.1\Receipt.runtimeconfig.dev.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\bin\Debug\netcoreapp3.1\Receipt.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\bin\Debug\netcoreapp3.1\Receipt.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\obj\Debug\netcoreapp3.1\Receipt.csproj.AssemblyReference.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\obj\Debug\netcoreapp3.1\Receipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\obj\Debug\netcoreapp3.1\Receipt.AssemblyInfoInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\obj\Debug\netcoreapp3.1\Receipt.AssemblyInfo.cs
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\obj\Debug\netcoreapp3.1\Receipt.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\obj\Debug\netcoreapp3.1\Receipt.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\obj\Debug\netcoreapp3.1\Receipt.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Receipt\obj\Debug\netcoreapp3.1\Receipt.genruntimeconfig.cache
