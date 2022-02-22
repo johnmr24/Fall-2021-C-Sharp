@@ -1,0 +1,14 @@
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\bin\Debug\netcoreapp3.1\Programming Exercise 10.exe
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\bin\Debug\netcoreapp3.1\Programming Exercise 10.deps.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\bin\Debug\netcoreapp3.1\Programming Exercise 10.runtimeconfig.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\bin\Debug\netcoreapp3.1\Programming Exercise 10.runtimeconfig.dev.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\bin\Debug\netcoreapp3.1\Programming Exercise 10.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\bin\Debug\netcoreapp3.1\Programming Exercise 10.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\obj\Debug\netcoreapp3.1\Programming Exercise 10.csproj.AssemblyReference.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\obj\Debug\netcoreapp3.1\Programming Exercise 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\obj\Debug\netcoreapp3.1\Programming Exercise 10.AssemblyInfoInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\obj\Debug\netcoreapp3.1\Programming Exercise 10.AssemblyInfo.cs
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\obj\Debug\netcoreapp3.1\Programming Exercise 10.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\obj\Debug\netcoreapp3.1\Programming Exercise 10.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\obj\Debug\netcoreapp3.1\Programming Exercise 10.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Exercise 10\obj\Debug\netcoreapp3.1\Programming Exercise 10.genruntimeconfig.cache
