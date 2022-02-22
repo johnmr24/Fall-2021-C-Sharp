@@ -1,0 +1,28 @@
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.exe
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.deps.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.runtimeconfig.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.runtimeconfig.dev.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.csproj.AssemblyReference.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.AssemblyInfoInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.AssemblyInfo.cs
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.genruntimeconfig.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.exe
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.deps.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.runtimeconfig.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.runtimeconfig.dev.json
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\bin\Debug\netcoreapp3.1\DistributionChart.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.csproj.AssemblyReference.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.AssemblyInfoInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.AssemblyInfo.cs
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.dll
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.pdb
+C:\Users\johnr\Desktop\Classwork\Fall 2021\C# Programming                 - CS 285\Programming Assignment #6\DistributionChart\obj\Debug\netcoreapp3.1\DistributionChart.genruntimeconfig.cache
